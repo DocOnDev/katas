@@ -1,4 +1,4 @@
-require 'lib/ftoc.rb'
+require './lib/ftoc.rb'
 # This program should accept a temperature in Fahrenheit from the command line
 # and print the celsius equivalent.
 
